@@ -27,10 +27,10 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 32px;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	font-size: 16px;
 	line-height: 1.5em;
-	color: #7FFFD4;
+	color: #222;
 }
 
 /*	Generally, you will only want one container element in
